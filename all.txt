@@ -1,0 +1,233 @@
+Epoch 21/499
+341/341 [==============================] - 8131s 24s/step - loss: 1.1685 - accuracy: 0.6357 - val_loss: 0.7159 - val_accuracy: 0.7376
+INFO:tensorflow:Assets written to: ../Checkpoints\my_checkpoint_layers2\assets
+Epoch 22/499
+341/341 [==============================] - 5317s 16s/step - loss: 0.4697 - accuracy: 0.8410 - val_loss: 0.5041 - val_accuracy: 0.8202
+INFO:tensorflow:Assets written to: ../Checkpoints\my_checkpoint_layers2\assets
+Epoch 23/499
+341/341 [==============================] - 5778s 17s/step - loss: 0.3856 - accuracy: 0.8735 - val_loss: 0.4211 - val_accuracy: 0.8612
+INFO:tensorflow:Assets written to: ../Checkpoints\my_checkpoint_layers2\assets
+Epoch 24/499
+341/341 [==============================] - 5026s 15s/step - loss: 0.3269 - accuracy: 0.8866 - val_loss: 0.2781 - val_accuracy: 0.9173
+INFO:tensorflow:Assets written to: ../Checkpoints\my_checkpoint_layers2\assets
+Epoch 25/499
+341/341 [==============================] - 5052s 15s/step - loss: 0.2808 - accuracy: 0.9074 - val_loss: 0.3700 - val_accuracy: 0.8660
+Epoch 26/499
+341/341 [==============================] - 5025s 15s/step - loss: 0.2594 - accuracy: 0.9139 - val_loss: 0.3575 - val_accuracy: 0.8780
+Epoch 27/499
+341/341 [==============================] - 4985s 15s/step - loss: 0.2291 - accuracy: 0.9226 - val_loss: 0.2445 - val_accuracy: 0.9085
+INFO:tensorflow:Assets written to: ../Checkpoints\my_checkpoint_layers2\assets
+Epoch 28/499
+341/341 [==============================] - 4969s 15s/step - loss: 0.2345 - accuracy: 0.9235 - val_loss: 0.8658 - val_accuracy: 0.7360
+Epoch 29/499
+341/341 [==============================] - 4997s 15s/step - loss: 0.1977 - accuracy: 0.9310 - val_loss: 0.5784 - val_accuracy: 0.8291
+Epoch 30/499
+341/341 [==============================] - 5022s 15s/step - loss: 0.1893 - accuracy: 0.9364 - val_loss: 0.3275 - val_accuracy: 0.9053
+Epoch 31/499
+341/341 [==============================] - 4990s 15s/step - loss: 0.1823 - accuracy: 0.9382 - val_loss: 0.1053 - val_accuracy: 0.9559
+INFO:tensorflow:Assets written to: ../Checkpoints\my_checkpoint_layers2\assets
+Epoch 32/499
+341/341 [==============================] - 4955s 15s/step - loss: 0.1745 - accuracy: 0.9438 - val_loss: 0.1901 - val_accuracy: 0.9350
+Epoch 33/499
+341/341 [==============================] - 4957s 15s/step - loss: 0.1544 - accuracy: 0.9483 - val_loss: 0.1291 - val_accuracy: 0.9567
+Epoch 34/499
+341/341 [==============================] - 4955s 15s/step - loss: 0.1398 - accuracy: 0.9518 - val_loss: 0.0742 - val_accuracy: 0.9743
+INFO:tensorflow:Assets written to: ../Checkpoints\my_checkpoint_layers2\assets
+Epoch 35/499
+341/341 [==============================] - 5600s 16s/step - loss: 0.1377 - accuracy: 0.9571 - val_loss: 0.1361 - val_accuracy: 0.9510
+Epoch 36/499
+341/341 [==============================] - 5224s 15s/step - loss: 0.1273 - accuracy: 0.9589 - val_loss: 0.2086 - val_accuracy: 0.9286
+Epoch 37/499
+341/341 [==============================] - 5318s 16s/step - loss: 0.1148 - accuracy: 0.9606 - val_loss: 0.1479 - val_accuracy: 0.9438
+Epoch 38/499
+341/341 [==============================] - 5081s 15s/step - loss: 0.1060 - accuracy: 0.9630 - val_loss: 0.6281 - val_accuracy: 0.8307
+Epoch 39/499
+341/341 [==============================] - 5175s 15s/step - loss: 0.1257 - accuracy: 0.9562 - val_loss: 0.1418 - val_accuracy: 0.9494
+Epoch 40/499
+341/341 [==============================] - 5196s 15s/step - loss: 0.1049 - accuracy: 0.9652 - val_loss: 0.0957 - val_accuracy: 0.9631
+Epoch 41/499
+341/341 [==============================] - 4969s 15s/step - loss: 0.0936 - accuracy: 0.9718 - val_loss: 0.0661 - val_accuracy: 0.9791
+INFO:tensorflow:Assets written to: ../Checkpoints\my_checkpoint_layers2\assets
+Epoch 42/499
+341/341 [==============================] - 4991s 15s/step - loss: 0.0972 - accuracy: 0.9674 - val_loss: 0.0982 - val_accuracy: 0.9647
+Epoch 43/499
+341/341 [==============================] - 5031s 15s/step - loss: 0.0751 - accuracy: 0.9767 - val_loss: 0.1779 - val_accuracy: 0.9462
+Epoch 44/499
+341/341 [==============================] - 5123s 15s/step - loss: 0.0950 - accuracy: 0.9691 - val_loss: 0.0731 - val_accuracy: 0.9751
+Epoch 45/499
+341/341 [==============================] - 4965s 15s/step - loss: 0.0766 - accuracy: 0.9741 - val_loss: 0.0649 - val_accuracy: 0.9743
+INFO:tensorflow:Assets written to: ../Checkpoints\my_checkpoint_layers2\assets
+Epoch 46/499
+341/341 [==============================] - 4998s 15s/step - loss: 0.0649 - accuracy: 0.9774 - val_loss: 0.0252 - val_accuracy: 0.9928
+INFO:tensorflow:Assets written to: ../Checkpoints\my_checkpoint_layers2\assets
+Epoch 47/499
+341/341 [==============================] - 5013s 15s/step - loss: 0.0734 - accuracy: 0.9753 - val_loss: 0.0245 - val_accuracy: 0.9912
+INFO:tensorflow:Assets written to: ../Checkpoints\my_checkpoint_layers2\assets
+Epoch 48/499
+341/341 [==============================] - 5019s 15s/step - loss: 0.0573 - accuracy: 0.9817 - val_loss: 0.0624 - val_accuracy: 0.9815
+Epoch 49/499
+341/341 [==============================] - 4989s 15s/step - loss: 0.0544 - accuracy: 0.9817 - val_loss: 0.2971 - val_accuracy: 0.9238
+Epoch 50/499
+341/341 [==============================] - 5003s 15s/step - loss: 0.0637 - accuracy: 0.9792 - val_loss: 0.0157 - val_accuracy: 0.9952
+INFO:tensorflow:Assets written to: ../Checkpoints\my_checkpoint_layers2\assets
+Epoch 51/499
+341/341 [==============================] - 5010s 15s/step - loss: 0.0800 - accuracy: 0.9741 - val_loss: 0.0378 - val_accuracy: 0.9912
+Epoch 52/499
+341/341 [==============================] - 5009s 15s/step - loss: 0.0638 - accuracy: 0.9800 - val_loss: 0.0761 - val_accuracy: 0.9711
+Epoch 53/499
+341/341 [==============================] - 5037s 15s/step - loss: 0.0462 - accuracy: 0.9851 - val_loss: 0.0299 - val_accuracy: 0.9920
+Epoch 54/499
+341/341 [==============================] - 5024s 15s/step - loss: 0.0733 - accuracy: 0.9748 - val_loss: 0.3136 - val_accuracy: 0.9037
+Epoch 55/499
+341/341 [==============================] - 4997s 15s/step - loss: 0.0510 - accuracy: 0.9826 - val_loss: 0.2392 - val_accuracy: 0.9294
+Epoch 56/499
+341/341 [==============================] - 4980s 15s/step - loss: 0.0473 - accuracy: 0.9864 - val_loss: 0.1178 - val_accuracy: 0.9719
+Epoch 57/499
+341/341 [==============================] - 4996s 15s/step - loss: 0.0439 - accuracy: 0.9864 - val_loss: 0.1852 - val_accuracy: 0.9414
+Epoch 58/499
+341/341 [==============================] - 5056s 15s/step - loss: 0.0521 - accuracy: 0.9825 - val_loss: 0.0204 - val_accuracy: 0.9960
+Epoch 59/499
+341/341 [==============================] - 5079s 15s/step - loss: 0.0473 - accuracy: 0.9843 - val_loss: 0.1849 - val_accuracy: 0.9350
+Epoch 60/499
+341/341 [==============================] - 5166s 15s/step - loss: 0.0541 - accuracy: 0.9830 - val_loss: 0.0175 - val_accuracy: 0.9944
+Epoch 61/499
+341/341 [==============================] - 4979s 15s/step - loss: 0.0369 - accuracy: 0.9888 - val_loss: 0.0389 - val_accuracy: 0.9880
+Epoch 62/499
+341/341 [==============================] - 4998s 15s/step - loss: 0.0451 - accuracy: 0.9858 - val_loss: 0.1206 - val_accuracy: 0.9631
+Epoch 63/499
+341/341 [==============================] - 5021s 15s/step - loss: 0.0351 - accuracy: 0.9896 - val_loss: 0.0347 - val_accuracy: 0.9896
+Epoch 64/499
+341/341 [==============================] - 5008s 15s/step - loss: 0.0436 - accuracy: 0.9874 - val_loss: 0.0289 - val_accuracy: 0.9888
+Epoch 65/499
+341/341 [==============================] - 5018s 15s/step - loss: 0.0325 - accuracy: 0.9902 - val_loss: 0.1524 - val_accuracy: 0.9543
+Epoch 66/499
+341/341 [==============================] - 5024s 15s/step - loss: 0.0348 - accuracy: 0.9885 - val_loss: 0.0817 - val_accuracy: 0.9727
+Epoch 67/499
+341/341 [==============================] - 5027s 15s/step - loss: 0.0400 - accuracy: 0.9874 - val_loss: 0.0117 - val_accuracy: 0.9976
+INFO:tensorflow:Assets written to: ../Checkpoints\my_checkpoint_layers2\assets
+Epoch 68/499
+341/341 [==============================] - 4962s 15s/step - loss: 0.0343 - accuracy: 0.9895 - val_loss: 0.0391 - val_accuracy: 0.9896
+Epoch 69/499
+341/341 [==============================] - 4934s 14s/step - loss: 0.0307 - accuracy: 0.9913 - val_loss: 0.0208 - val_accuracy: 0.9936
+Epoch 70/499
+341/341 [==============================] - 4943s 14s/step - loss: 0.0328 - accuracy: 0.9889 - val_loss: 0.0183 - val_accuracy: 0.9944
+Epoch 71/499
+341/341 [==============================] - 4968s 15s/step - loss: 0.0443 - accuracy: 0.9879 - val_loss: 0.0371 - val_accuracy: 0.9920
+Epoch 72/499
+341/341 [==============================] - 4992s 15s/step - loss: 0.0249 - accuracy: 0.9935 - val_loss: 0.0188 - val_accuracy: 0.9952
+Epoch 73/499
+341/341 [==============================] - 4956s 15s/step - loss: 0.0330 - accuracy: 0.9894 - val_loss: 0.0457 - val_accuracy: 0.9872
+Epoch 74/499
+341/341 [==============================] - 4947s 15s/step - loss: 0.0275 - accuracy: 0.9909 - val_loss: 0.2174 - val_accuracy: 0.9318
+Epoch 75/499
+341/341 [==============================] - 4966s 15s/step - loss: 0.0297 - accuracy: 0.9903 - val_loss: 0.0687 - val_accuracy: 0.9807
+Epoch 76/499
+341/341 [==============================] - 4981s 15s/step - loss: 0.0244 - accuracy: 0.9938 - val_loss: 0.1253 - val_accuracy: 0.9631
+Epoch 77/499
+341/341 [==============================] - 4980s 15s/step - loss: 0.0478 - accuracy: 0.9855 - val_loss: 0.0337 - val_accuracy: 0.9904
+Epoch 78/499
+341/341 [==============================] - 5192s 15s/step - loss: 0.0335 - accuracy: 0.9893 - val_loss: 0.0358 - val_accuracy: 0.9888
+Epoch 79/499
+341/341 [==============================] - 4964s 15s/step - loss: 0.0246 - accuracy: 0.9912 - val_loss: 0.0388 - val_accuracy: 0.9872
+Epoch 80/499
+341/341 [==============================] - 5004s 15s/step - loss: 0.0361 - accuracy: 0.9887 - val_loss: 0.0439 - val_accuracy: 0.9823
+Epoch 81/499
+341/341 [==============================] - 4970s 15s/step - loss: 0.0251 - accuracy: 0.9928 - val_loss: 0.0203 - val_accuracy: 0.9920
+Epoch 82/499
+341/341 [==============================] - 4958s 15s/step - loss: 0.0199 - accuracy: 0.9942 - val_loss: 0.1796 - val_accuracy: 0.9559
+Epoch 83/499
+341/341 [==============================] - 4984s 15s/step - loss: 0.0333 - accuracy: 0.9891 - val_loss: 0.1542 - val_accuracy: 0.9543
+Epoch 84/499
+341/341 [==============================] - 4976s 15s/step - loss: 0.0320 - accuracy: 0.9884 - val_loss: 0.0069 - val_accuracy: 0.9960
+INFO:tensorflow:Assets written to: ../Checkpoints\my_checkpoint_layers2\assets
+Epoch 85/499
+341/341 [==============================] - 4999s 15s/step - loss: 0.0178 - accuracy: 0.9936 - val_loss: 0.0105 - val_accuracy: 0.9968
+Epoch 86/499
+341/341 [==============================] - 4973s 15s/step - loss: 0.0195 - accuracy: 0.9931 - val_loss: 0.0114 - val_accuracy: 0.9960
+Epoch 87/499
+341/341 [==============================] - 5038s 15s/step - loss: 0.0203 - accuracy: 0.9937 - val_loss: 0.0998 - val_accuracy: 0.9719
+Epoch 88/499
+341/341 [==============================] - 5174s 15s/step - loss: 0.0247 - accuracy: 0.9909 - val_loss: 0.0925 - val_accuracy: 0.9719
+Epoch 89/499
+341/341 [==============================] - 4990s 15s/step - loss: 0.0179 - accuracy: 0.9944 - val_loss: 0.1583 - val_accuracy: 0.9567
+Epoch 90/499
+341/341 [==============================] - 5041s 15s/step - loss: 0.0187 - accuracy: 0.9930 - val_loss: 0.1932 - val_accuracy: 0.9502
+Epoch 91/499
+341/341 [==============================] - 5046s 15s/step - loss: 0.0249 - accuracy: 0.9920 - val_loss: 0.0126 - val_accuracy: 0.9952
+Epoch 92/499
+341/341 [==============================] - 5082s 15s/step - loss: 0.0262 - accuracy: 0.9923 - val_loss: 0.0542 - val_accuracy: 0.9831
+Epoch 93/499
+341/341 [==============================] - 5104s 15s/step - loss: 0.0291 - accuracy: 0.9908 - val_loss: 0.0478 - val_accuracy: 0.9872
+Epoch 94/499
+341/341 [==============================] - 5089s 15s/step - loss: 0.0146 - accuracy: 0.9953 - val_loss: 0.0475 - val_accuracy: 0.9839
+Epoch 95/499
+341/341 [==============================] - 5075s 15s/step - loss: 0.0244 - accuracy: 0.9925 - val_loss: 0.0111 - val_accuracy: 0.9944
+Epoch 96/499
+341/341 [==============================] - 5092s 15s/step - loss: 0.0229 - accuracy: 0.9923 - val_loss: 0.0167 - val_accuracy: 0.9968
+Epoch 97/499
+341/341 [==============================] - 5097s 15s/step - loss: 0.0131 - accuracy: 0.9956 - val_loss: 0.2206 - val_accuracy: 0.9382
+Epoch 98/499
+341/341 [==============================] - 5105s 15s/step - loss: 0.0254 - accuracy: 0.9917 - val_loss: 0.0980 - val_accuracy: 0.9743
+Epoch 99/499
+341/341 [==============================] - 5094s 15s/step - loss: 0.0230 - accuracy: 0.9929 - val_loss: 0.0017 - val_accuracy: 1.0000
+INFO:tensorflow:Assets written to: ../Checkpoints\my_checkpoint_layers2\assets
+Epoch 100/499
+341/341 [==============================] - 5173s 15s/step - loss: 0.0132 - accuracy: 0.9966 - val_loss: 0.0397 - val_accuracy: 0.9912
+Epoch 101/499
+341/341 [==============================] - 5157s 15s/step - loss: 0.0229 - accuracy: 0.9925 - val_loss: 0.0128 - val_accuracy: 0.9944
+Epoch 102/499
+341/341 [==============================] - 5157s 15s/step - loss: 0.0222 - accuracy: 0.9921 - val_loss: 0.0081 - val_accuracy: 0.9976
+Epoch 103/499
+341/341 [==============================] - 5116s 15s/step - loss: 0.0168 - accuracy: 0.9947 - val_loss: 0.0429 - val_accuracy: 0.9856
+Epoch 104/499
+341/341 [==============================] - 5120s 15s/step - loss: 0.0191 - accuracy: 0.9941 - val_loss: 0.0258 - val_accuracy: 0.9928
+Epoch 105/499
+341/341 [==============================] - 5132s 15s/step - loss: 0.0257 - accuracy: 0.9930 - val_loss: 0.0220 - val_accuracy: 0.9904
+Epoch 106/499
+341/341 [==============================] - 5165s 15s/step - loss: 0.0175 - accuracy: 0.9944 - val_loss: 0.0091 - val_accuracy: 0.9968
+Epoch 107/499
+341/341 [==============================] - 5143s 15s/step - loss: 0.0160 - accuracy: 0.9957 - val_loss: 0.0045 - val_accuracy: 0.9976
+Epoch 108/499
+341/341 [==============================] - 5135s 15s/step - loss: 0.0182 - accuracy: 0.9945 - val_loss: 0.0367 - val_accuracy: 0.9912
+Epoch 109/499
+341/341 [==============================] - 5116s 15s/step - loss: 0.0147 - accuracy: 0.9958 - val_loss: 0.0091 - val_accuracy: 0.9960
+Epoch 110/499
+341/341 [==============================] - 5113s 15s/step - loss: 0.0146 - accuracy: 0.9952 - val_loss: 0.0547 - val_accuracy: 0.9791
+Epoch 111/499
+341/341 [==============================] - 5118s 15s/step - loss: 0.0188 - accuracy: 0.9947 - val_loss: 0.0031 - val_accuracy: 0.9992
+Epoch 112/499
+341/341 [==============================] - 5124s 15s/step - loss: 0.0162 - accuracy: 0.9944 - val_loss: 0.0363 - val_accuracy: 0.9920
+Epoch 113/499
+341/341 [==============================] - 5132s 15s/step - loss: 0.0144 - accuracy: 0.9954 - val_loss: 0.0101 - val_accuracy: 0.9952
+Epoch 114/499
+341/341 [==============================] - 5146s 15s/step - loss: 0.0208 - accuracy: 0.9939 - val_loss: 0.0044 - val_accuracy: 0.9984
+Epoch 115/499
+341/341 [==============================] - 5146s 15s/step - loss: 0.0228 - accuracy: 0.9942 - val_loss: 0.0024 - val_accuracy: 0.9992
+Epoch 116/499
+341/341 [==============================] - 5121s 15s/step - loss: 0.0121 - accuracy: 0.9955 - val_loss: 0.0255 - val_accuracy: 0.9912
+Epoch 117/499
+341/341 [==============================] - 5115s 15s/step - loss: 0.0180 - accuracy: 0.9943 - val_loss: 0.1196 - val_accuracy: 0.9639
+Epoch 118/499
+341/341 [==============================] - 5105s 15s/step - loss: 0.0151 - accuracy: 0.9960 - val_loss: 0.0017 - val_accuracy: 0.9992
+Epoch 119/499
+341/341 [==============================] - 5094s 15s/step - loss: 0.0222 - accuracy: 0.9928 - val_loss: 0.0232 - val_accuracy: 0.9928
+Epoch 120/499
+341/341 [==============================] - 5128s 15s/step - loss: 0.0138 - accuracy: 0.9951 - val_loss: 0.0022 - val_accuracy: 0.9992
+Epoch 121/499
+341/341 [==============================] - 5111s 15s/step - loss: 0.0095 - accuracy: 0.9977 - val_loss: 0.1360 - val_accuracy: 0.9695
+Epoch 122/499
+341/341 [==============================] - 5144s 15s/step - loss: 0.0185 - accuracy: 0.9951 - val_loss: 0.0283 - val_accuracy: 0.9920
+Epoch 123/499
+341/341 [==============================] - 5103s 15s/step - loss: 0.0123 - accuracy: 0.9962 - val_loss: 0.0402 - val_accuracy: 0.9848
+Epoch 124/499
+341/341 [==============================] - 5129s 15s/step - loss: 0.0198 - accuracy: 0.9934 - val_loss: 0.0095 - val_accuracy: 0.9984
+Epoch 125/499
+341/341 [==============================] - 5151s 15s/step - loss: 0.0139 - accuracy: 0.9963 - val_loss: 0.0689 - val_accuracy: 0.9831
+Epoch 126/499
+341/341 [==============================] - 5148s 15s/step - loss: 0.0143 - accuracy: 0.9969 - val_loss: 0.0071 - val_accuracy: 0.9960
+Epoch 127/499
+341/341 [==============================] - 5155s 15s/step - loss: 0.0128 - accuracy: 0.9959 - val_loss: 0.1325 - val_accuracy: 0.9663
+Epoch 128/499
+341/341 [==============================] - 5129s 15s/step - loss: 0.0166 - accuracy: 0.9954 - val_loss: 0.0351 - val_accuracy: 0.9912
+Epoch 129/499
+341/341 [==============================] - 5158s 15s/step - loss: 0.0175 - accuracy: 0.9943 - val_loss: 0.0030 - val_accuracy: 0.9984
